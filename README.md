@@ -4,7 +4,7 @@
 
 <hr>
 
-  <div class="d-flex justify-content-center">
+   <div style="display: flex; justify-content: space-evenly">
       <div>
         <img
           src="https://github.com/sudhanshu1919/instagramwebapp/blob/main/Create_Account.png"
@@ -69,7 +69,6 @@
         <p>Logout Your Account</p>
       </div>
     </div>
-
 
 
 
