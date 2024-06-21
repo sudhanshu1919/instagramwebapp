@@ -1,0 +1,109 @@
+.card {
+  max-width: 500px;
+  height: max-content;
+  margin: 25px auto;
+  border: 1px rgb(173, 173, 173);
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08), 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+.card-header {
+  display: flex;
+}
+.card-header > h5 {
+  margin: 0;
+  padding: 11px;
+}
+.card-pic img {
+  width: 40px;
+  border-radius: 300px;
+  height: auto;
+  object-fit: contain;
+  padding: 5px;
+  margin-top: 9px;
+}
+.card-image img {
+  width: 100%;
+}
+.card-contaent {
+  text-align: left;
+  line-height: 18px;
+  padding: 10px 10px;
+  border-bottom: rgb(173, 173, 173);
+}
+.add-comment {
+  display: flex;
+  align-items: center;
+  margin-left: 10px !important;
+}
+.add-comment input {
+  margin-top: -20;
+  outline: none;
+  border: none;
+  margin-left: 10px !important;
+}
+.comment {
+  border: none;
+  background: none;
+  font-weight: bolder;
+  cursor: pointer;
+  color: #2f93d2;
+}
+
+.material-symbols-outlined-red {
+  color: red;
+  font-variation-settings: "FILL" 1, "wght" 700, "GRAD" 0, "opsz" 48;
+}
+.material-symbols-outlined {
+  cursor: pointer;
+}
+
+.showComment {
+  width: 100%;
+  min-height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: rgb(16, 13, 13, 0.4);
+}
+.Container {
+  display: flex;
+  width: 50%;
+  background-color: white;
+  position: absolute;
+  top: 20%;
+  left: 25%;
+  height: 500px;
+}
+.postPic {
+  background-color: black;
+  display: flex;
+  align-items: center;
+}
+.postPic img {
+  object-fit: contain;
+  width: 100%;
+}
+.details {
+  width: 50%;
+  height: inherit;
+  display: flex;
+  flex-direction: column;
+}
+.comment-sections {
+  flex-grow: 4;
+  margin-left: 15px;
+}
+.close-comment {
+  position: fixed;
+  top: 11%;
+  right: 24%;
+  color: white;
+
+  border: none;
+  cursor: pointer;
+}
+
+.material-symbols-outlined-comment {
+  font-size: 40px;
+  font-variation-settings: "FILL" 0, "wght" 700, "GRAD" 0, "opsz" 48;
+}

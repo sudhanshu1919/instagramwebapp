@@ -1,0 +1,93 @@
+.LeftBar2 {
+  display: flex;
+}
+
+.LeftBar3 {
+  position: relative;
+  top: 60px !important;
+  left: 0;
+  width: 200px !important;
+  height: 100vh;
+  background-color: #ffffff;
+  text-align: center;
+  padding: 20px;
+  position: fixed;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08), 0 4px 12px rgba(0, 0, 0, 0.08);
+  z-index: -1010 !important;
+}
+
+.RightBar {
+  position: absolute;
+  margin-top: -730px;
+}
+
+.profile {
+  max-width: 1150px !important;
+  margin: 10px auto !important;
+  margin-right: 240px;
+}
+.profile-frame {
+  display: flex;
+  justify-content: space-evenly;
+}
+.profile-pic {
+  height: fit-content;
+}
+.profile-pic > img {
+  width: 120px;
+  height: 160px;
+  object-fit: contain;
+  border-radius: 300%;
+}
+.profile-data {
+  text-align: left;
+  margin-top: 50px;
+  margin-left: -340px !important;
+}
+.profile-info > p {
+  padding: 0px 5px;
+}
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  margin-left: 130px;
+}
+.gallery img {
+  width: 20%;
+  margin: 10px;
+}
+
+/* last profile */
+
+.darkBg1 {
+  background-color: rgba(0, 0, 0, 0.2);
+  width: 100vw;
+  height: 100vh;
+  z-index: 0;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+
+.Profilre {
+  color: royalblue;
+  font-family: sans-serif;
+  text-decoration: none;
+  font-weight: bolder;
+}
+.changePic {
+  background-color: #ffffff;
+  border-radius: 20px;
+}
+.changePic div {
+  padding: 15px 80px;
+}
+.upload-btn {
+  cursor: pointer;
+  background: none;
+  border: none;
+  font-weight: bolder;
+  font-size: 15px;
+}

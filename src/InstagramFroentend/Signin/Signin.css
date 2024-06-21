@@ -1,0 +1,60 @@
+.mainContainer2 {
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 2%,
+    rgba(253, 29, 29, 1) 51%,
+    rgba(252, 176, 69, 1) 100%
+  );
+  padding: 60px;
+}
+
+.MainDIV2 {
+  background-color: rgba(255, 255, 255, 0.75);
+  width: 350px !important;
+  height: 370px;
+  padding: 10px;
+  position: relative;
+  top: 110px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+input {
+  padding: 5px;
+  width: 280px;
+  margin: 5px !important;
+  border: none;
+  border-bottom: 2px solid #0081a7;
+  font-weight: bold;
+}
+.BTN1 {
+  background-color: rgb(10, 91, 162);
+  padding: 10px;
+  color: white;
+  border: none;
+  font-weight: bold;
+  width: 300px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.BTN1:hover {
+  background-color: rgb(7, 112, 153);
+  padding: 10px;
+  color: white;
+  border: none;
+  font-weight: bold;
+  width: 300px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.LastHeadding2 {
+  margin-top: 120px;
+  background-color: rgba(255, 255, 255, 0.75);
+  width: 350px !important;
+  padding: 10px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  margin-bottom: 40px;
+}
