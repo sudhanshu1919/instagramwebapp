@@ -28,6 +28,28 @@
       <li>
   Protected Routes
    </li>
+
+   <li>
+      <h6>Technical Details</h6>
+   </li>
+      <li>
+Frontend: Built with React, styled using CSS and Bootstrap.
+   </li>
+      <li>
+Routing: Handled by react-router-dom.
+   </li>
+      <li>
+State Management: Utilizes React's useState and useEffect hooks
+   </li>
+      <li>
+Notifications: Implemented using react-toastify.
+   </li>
+         <li>
+Authentication: Secured using JWT, stored in local storage.
+   </li>
+         <li>
+HTTP Requests: Managed with fetch API for interacting with the backend server.
+   </li>
 </ul>
 
 <hr>
