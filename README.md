@@ -2,6 +2,34 @@
 
 <h4>  Visit our website now : <a href="https://instagramwebapp.onrender.com">  Instagram WebApp </a></h4>
 
+<p>This project is an Instagram-like web application built using React. It features user authentication, post creation, and profile viewing functionalities, leveraging JWT (JSON Web Token) for secure login and session management.</p>
+<ul>
+   <li>
+      <h6>User Authentication</h6>
+   </li>
+   <li>
+      Sign Up
+   </li>
+    <li>
+      Sign In
+   </li>
+    <li>
+      Home Page
+   </li>
+    <li>
+      Create Post
+   </li>
+    <li>
+      User Profile
+   </li>
+    <li>
+      Notifications
+   </li>
+      <li>
+  Protected Routes
+   </li>
+</ul>
+
 <hr>
 
    <div style="display: flex; justify-content: space-evenly">
