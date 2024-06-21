@@ -9,8 +9,8 @@
         <img
           src="https://github.com/sudhanshu1919/instagramwebapp/blob/main/Create_Account.png"
           alt="Create Account"
-          width="350"
-          height="350px"
+          width="250"
+          height="270px"
         />
         <p>Create Account</p>
       </div>
@@ -18,8 +18,8 @@
         <img
           src="https://github.com/sudhanshu1919/instagramwebapp/blob/main/Login.png"
           alt="Login Account"
-          width="350"
-          height="350px"
+          width="250"
+          height="270px"
         />
         <p>Login Account</p>
       </div>
@@ -54,7 +54,7 @@
         <img
           src="https://github.com/sudhanshu1919/instagramwebapp/blob/main/Our_Profile.png"
           alt="View Your Profile"
-          width="350"
+          width="450"
           height="350px"
         />
         <p>View Your Profile</p>
