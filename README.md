@@ -113,7 +113,7 @@ HTTP Requests: Managed with fetch API for interacting with the backend server.
         <img
           src="https://github.com/sudhanshu1919/instagramwebapp/blob/main/Account_logout.png"
           alt="Logout Your Account"
-          width="350"
+          width="450"
           height="350px"
         />
         <p>Logout Your Account</p>
