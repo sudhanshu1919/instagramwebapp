@@ -60,7 +60,7 @@ HTTP Requests: Managed with fetch API for interacting with the backend server.
           src="https://github.com/sudhanshu1919/instagramwebapp/blob/main/Create_Account.png"
           alt="Create Account"
           width="250"
-          height="270px"
+          height="320px"
         />
         <p>Create Account</p>
       </div>
@@ -69,7 +69,7 @@ HTTP Requests: Managed with fetch API for interacting with the backend server.
           src="https://github.com/sudhanshu1919/instagramwebapp/blob/main/Login.png"
           alt="Login Account"
           width="250"
-          height="270px"
+          height="320px"
         />
         <p>Login Account</p>
       </div>
