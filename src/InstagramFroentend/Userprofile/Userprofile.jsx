@@ -32,7 +32,7 @@ function Userprofile() {
               </div> */}
 
             <div className="mt-3">
-              <span class="material-symbols-outlined">home</span> <br />{" "}
+              <span class="material-symbols-outlined">home</span> <br />
               <span style={{ fontFamily: "sans-serif" }}>Home</span>
             </div>
             <div className="mt-3">
