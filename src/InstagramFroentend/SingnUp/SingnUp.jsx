@@ -162,8 +162,8 @@ function SingnUp() {
               </Link>
             </p>
           </div>
-          <div>
-            <p>@ 2024 | Designed By Sudhanshu Gaikwad</p>
+          <div className="mt-4">
+            <p style={{color:'white'}}>@ 2024 | Designed By Sudhanshu Gaikwad</p>
           </div>
         </div>
       </center>
