@@ -162,6 +162,9 @@ function SingnUp() {
               </Link>
             </p>
           </div>
+          <div>
+            <p>@ 2024 | Designed By Sudhanshu Gaikwad</p>
+          </div>
         </div>
       </center>
     </>
