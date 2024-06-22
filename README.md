@@ -95,7 +95,7 @@ HTTP Requests: Managed with fetch API for interacting with the backend server.
         <img
           src="https://github.com/sudhanshu1919/instagramwebapp/blob/main/Comments_post.png"
           alt="Add Comments on Post"
-          width="350"
+          width="500"
           height="350px"
         />
         <p>Add Comments on Post</p>
@@ -104,7 +104,7 @@ HTTP Requests: Managed with fetch API for interacting with the backend server.
         <img
           src="https://github.com/sudhanshu1919/instagramwebapp/blob/main/Our_Profile.png"
           alt="View Your Profile"
-          width="450"
+          width="500"
           height="350px"
         />
         <p>View Your Profile</p>
